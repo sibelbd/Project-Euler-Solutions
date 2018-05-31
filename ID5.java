@@ -3,7 +3,7 @@
 * What is the smallest positive number that is evenly divisible by all of the numbers from * 1 to 20?
 */
 
-class Main {
+public class ID5 {
   public static void main(String[] args) {
     
     //smallestMult will hold the smallest multiple once its multFound
