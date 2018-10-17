@@ -6,9 +6,8 @@ I thought I'd give an update on this project. I am extremely new to Github. I've
 but never really got involved in anything. Now I'm trying to change that. While learning new skills in Java or Python
 is great, and I am definitely going to continure doing that. I think learning how to use Github and Git will open up a lot more opportunities and help me grow faster.
 
-So, what I've been doing is getting some work out there by throwing up a project Euler problem solution every day.
-There's around 600 problems available online right now so that gives me a little under two years to move on to harder 
-stuff. I'll be doing some side projects, websites, apps, and maybe a database, with this so I get some bigger works 
+So, what I've been doing is getting some work out there by throwing up a project Euler problem solution when I can.
+There's around 600 problems available online right now so that gives me a lot to work on. I'll be doing some side projects, websites, apps, and maybe a database, with this so I get some bigger works 
 out there as well. 
 
 I've been using codeanywhere.com as well as repl.it to type up code and upload it to Github. Codeanywhere is great
